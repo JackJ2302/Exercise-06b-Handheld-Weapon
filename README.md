@@ -78,6 +78,4 @@ Built using Godot 3.4.2
 Muzzle flash or other effects
 
 ## Created By
-
-Jason Francis
-```
+Jack Joseph
